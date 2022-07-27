@@ -165,10 +165,7 @@ CREATE TABLE `hubungi_kami` (
 
 INSERT INTO `hubungi_kami` (`id_saran`, `nama_lengkap`, `email`, `phone`, `saran`, `is_read`) VALUES
 (4, 'Aditya', 'aditya.dn04@yahoo.co.id', '087289901231', 'WEB MASIH HARUS DI KEMBANGKAN', 1),
-(7, 'Lely Prananingrum', 'lelyprana@gmail.com', '08176567247', 'Assalamualikum', 1),
-(8, 'Aditya', 'adityafame09@gmail.com', '085890019191', 'Assalamualaikum', 1),
-(9, 'Aaaaaa', 'setianto11@gmail.com', '00000000', 'Aaaaaaaaaaaaaaaaa', 1),
-(10, 'Ainaya Aulia Aliftha', 'ainayaaliftha23@gmail.com', '08995014860', 'sebaiknya untuk sarana dan prasarananya lebih diperhatikan lagi :)', 1);
+(7, 'Lely Prananingrum', 'lelyprana@gmail.com', '08176567247', 'Assalamualikum', 1);
 
 -- --------------------------------------------------------
 
